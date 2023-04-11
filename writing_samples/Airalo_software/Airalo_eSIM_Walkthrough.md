@@ -23,7 +23,7 @@ How to install and use your Airalo eSIM on your iOS device.
 
 
 
-## Access Cellular Data with eSIM
+## Access Cellular Data with your eSIM
 
 Now that you've installed your Airalo eSIM, make sure that your phone defaults to your new cellular data plan.
 
