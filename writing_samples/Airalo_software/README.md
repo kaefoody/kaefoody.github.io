@@ -1,18 +1,34 @@
 
+
 # Airalo Walkthrough Explanation
 
-![Airalo logo](writing_samples/Airalo_software/airalo.png)
+
 
 ## What is Airalo?
 
-Airalo's software allows travelers to purchase and install a virtual SIM card (*or "eSIM"*) on their mobile device. This means you can connect to affordable celluar data the moment you land — all from the convenience of your phone.
+Airalo's software allows you to purchase and install a virtual SIM card (or "eSIM") on your mobile device. 
 
-Unfortunately, Airalo's documentation can be difficult to follow. I'm a frequent Airalo user myself, but often struggle to install or activate my eSIM correctly following their instructions. I've incurred expensive travel pass fees because of knowledge gaps in their documentation.
+This means you can **avoid expensive roaming fees** and **connect to affordable celluar data** the second you land in a new country — all from the convenience of your phone.
 
-I identified and revised a few key weaknesses in Airalo's installation guide:
 
-| **Problem** | **Old UX** | **My revisions** | **New UX** |
-|-------------|------------|------------------|------------|
-| Instructions were cluttered with full-sized iPhone screenshots | Difficult for users to scan | Cropped the screenshots to take up less space in the document | Draws the reader's eye back to the steps and makes document more readable.|
-| Instructions didn't explain (or link to another reference page) how to disable cellular data your previous eSIM | Users could accidentally incur pricey roaming cellular data fees | Addressed these knowledge gaps with additional steps | Users save money using Airalo's product as intended |
+
+## Airalo's Documentation
+
+Unfortunately, Airalo's documentation is difficult to follow. 
+
+I'm a frequent Airalo user myself, but often struggle to install or activate my eSIM correctly following their instructions. I've incurred expensive roaming fees because of knowledge gaps in their documentation. 
+
+I believe in Airalo's vision to provide this revolutionary service to travelers like myself, so I took it upon myself to improve some of their documentation.
+
+
+
+####  How I revised Airalo's [original](https://www.airalo.com/help/getting-started-with-airalo/how-can-i-install-my-esim-via-direct-installation-on-my-ios-device) installation guide:
+
+| **Problem**                                                  | **Old UX**                                                   | **My Revisions**                                             | **New UX**                                                   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Instructions were cluttered with full-sized iPhone screenshots | Users couldn't quickly scan for key info; poor accessibility because there's no alt-text for screen readers | Replaced screenshots with concise steps, button indicators, and paths | Draws the user's eye back to the steps; makes the document more readable and accessible |
+| Instructions didn't explain how to disable cellular data from original eSIM | Users incurred pricey roaming cellular data fees             | Addressed these knowledge gaps with additional steps         | Users save money using Airalo's product as intended          |
+| In-app instructions dissapear as soon as users start installing their eSIM | Users couldn't follow Airalo's instructions during the installation process | Provide a link to a concise version of the guide before the installation process | Users can follow instructions in a separate browser window   |
+
+
 
