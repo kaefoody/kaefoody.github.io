@@ -1,12 +1,15 @@
 # kaefoody.github.io
-Hi, I'm **Kaelin Foody**. Welcome to my portfolio!
 
-To view my files, navigate to my site [here](https://kaefoody.github.io/) or view my files on GitHub.
+Hello!
 
-## My Writing Samples Quick Links
+Thanks for taking the time to review my technical writing portfolio. I'd love if you viewed them directly on my [website](https://kaefoody.github.io), but I've included links to them here for your convenience.
 
-| Link to Sample | Description | Summary of Revisions |
-|----------------|-------------|----------------------|
-| [Airalo Software](https://github.com/kaefoody/kaefoody.github.io/blob/main/writing_samples/Airalo_software/Airalo_eSIM_Walkthrough.md) | Guide to help users install an eSIM | [Airalo README.md](https://github.com/kaefoody/kaefoody.github.io/blob/main/writing_samples/Airalo_software/README.md) |
-| [API Documentation](https://github.com/kaefoody/kaefoody.github.io/tree/main/writing_samples/APIs/docs)| Docs for various APIs in .json and .xml formats | [API Docs README.md](https://github.com/kaefoody/kaefoody.github.io/blob/main/writing_samples/APIs/README.md) |
-| [Electrical Control Panel Guide](https://github.com/kaefoody/kaefoody.github.io/blob/main/writing_samples/Electrical_control_panels/Electrical_controls_user_guide.pdf) | Guide to help users find their electrical control panel's make and model | [Control Panel README.md](https://github.com/kaefoody/kaefoody.github.io/blob/main/writing_samples/Electrical_control_panels/README.md) |
+|| Sample | Description | Context |
+|--|----------------|-------------|----------------------|
+|1.| [Airalo installation guide](#) | Guide to installing an eSIM with Airalo's app | [README.md](https://github.com/kaefoody/kaefoody.github.io/blob/main/writing_samples/Airalo_software/README.md) |
+|2.| [API docs](#) | Docs for a weather forecasting API in .json format | [README.md](https://github.com/kaefoody/kaefoody.github.io/blob/main/writing_samples/APIs/README.md) |
+|3.| [Electrical control panel guide](#) | How-to guide to find an electrical control panel's make and model | [README.md](https://github.com/kaefoody/kaefoody.github.io/blob/main/writing_samples/Electrical_control_panels/README.md) |
+
+I hope these samples give you insight into my writing skills and process. To see what else I'm working on, view my [GitHub profile](https://github.com/kaefoody).
+
+Happy reading!
